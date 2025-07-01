@@ -1,0 +1,36 @@
+.title-container{
+  background-color: rgb(104, 104, 231);
+  height: 100px;
+  width: 1500px;  
+  margin: 15px auto;  /* centers the box horizontally */
+  padding: 10px;
+  border-radius: 8px; 
+}
+
+
+.title-container h1{
+  text-align: center;
+  background-color: rgb(104, 104, 231);
+  color: white;
+  padding: 20px;
+  font-size: 36px;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  height: 100px;
+  width: 1800px;
+  background-color: lightgrey;
+  font-size: 25px;
+  padding:10px 25px;
+  border-radius: 10px;
+  display: table;
+}
+
+ul li {
+  text-align: center;
+  background-color: rgb(255, 255, 186);
+  margin: 10px 15px;
+  color: blue;
+  border-radius: 10px;
+}
