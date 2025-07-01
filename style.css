@@ -1,10 +1,14 @@
 .title-container{
   background-color: rgb(79, 79, 187);
   height: 100px;
-  width: 1500px;  
+  width: 90%;
+  max-width: 1500px;  
   margin: 15px auto; 
   padding: 10px;
   border-radius: 8px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
